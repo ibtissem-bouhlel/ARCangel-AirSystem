@@ -9,7 +9,7 @@
   #define DATABASE_URL "https://analyseur-air-arcangel.firebaseio.com/"
 
 /* Define the Firebase Data object */
-  #define USER_EMAIL "Ibtissembouhlel38@gmail.com"
+  #define USER_EMAIL "Ibtissem38@gmail.com"
   #define USER_PASSWORD "xxxxxxx"
 
   /*Define Firebase Data object */
@@ -25,8 +25,8 @@
   uint32_t idleTimeForStream = 15000;
 
 /* Define the WiFi credentials */
-  const char *WIFI_SSID = "ISITcom_wifi_etud"; // "TOPNET_2N2W6Z"; 
-  const char *WIFI_PASSWORD = "@isitcom@2022";  //"Arcangel5164" ;
+  const char *WIFI_SSID = "xxxxxxx";  
+  const char *WIFI_PASSWORD = "xxxxxxxxx" ;
 /*esp access point  */
   const char *ssid = "ESP32_AP";
   const char *password = "12345678";
